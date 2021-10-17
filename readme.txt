@@ -18,4 +18,4 @@ Logins do programa
 (Gerente) 	Usuario: paula 	senha: 123
 (Administrador) 	Usuario: admin 	senha: 123
 
-(Arquivo zip do SysComercio contém a pasta do projeto)
+(Arquivo zip do SysComercio contém a pasta de todo o projeto)
